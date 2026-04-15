@@ -7,7 +7,7 @@ variables:
   - name: projectName
     value: 'Training-Student-014-OC021'            # <-- Update this
   - name: buildPipelineName
-    value: 'gs-data-analaysis.finweb_Gnana1_build'          # <-- Update this
+    value: 'finweb_Gnana1_build'          # <-- Update this
   - name: artifactName
     value: 'frontend'        
   - name: targetFile
